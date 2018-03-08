@@ -1,4 +1,10 @@
-/*
+/*----------------------------------------- 
+ * ino fajl je rađen za potrebe članka u Svetu Kompjutera.
+ * Author: Petrović Dejan
+ * Date  : 06 mart 2017
+ * Arduino Mega, ekran Nokije 5110 i gomila drugih senzora i modula...
+ */
+ /*------------------------------
  * Atmosferski nivo CO2..............400ppm
  * Prosecna vrednost CO2 u sobi......350-450ppm
  * Maksimalna prihvatljiva vrednost..1000ppm
